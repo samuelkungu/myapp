@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "inde.js\u001b[D\u001b[D\u001b[Dx.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelkungu/myapp.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelkungu/myapp/issues"
+  },
+  "homepage": "https://github.com/samuelkungu/myapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
